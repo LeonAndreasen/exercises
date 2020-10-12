@@ -1,3 +1,4 @@
+// funktion där jag multiplicerar  två tal
 let x = 5
 function multiply(){
     x * y 
