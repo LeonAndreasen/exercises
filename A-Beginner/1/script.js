@@ -1,0 +1,1 @@
+// så skriver man en Kommentar 
